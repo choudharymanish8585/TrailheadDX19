@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomTab xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Created by Lightning App Builder</description>
+    <flexiPage>Jumbotron_Width_Aware</flexiPage>
+    <label>Jumbotron Width Aware</label>
+    <motif>Custom49: CD/DVD</motif>
+</CustomTab>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>description</name>
+                <value>TrailheaDX is the must-attend conference of the year for everyone who wants to learn about building on the Salesforce Platform. Get hands-on and learn from Salesforce engineers, product leaders, and the Trailblazer Community. Meet other makers, learn about the latest updates, and blaze your trail.</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>heading</name>
+                <value>Welcome to TrailheadDX</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>subheading</name>
+                <value>Salesforce developer conference dedicated to clicks, code, and people who create</value>
+            </componentInstanceProperties>
+            <componentName>jumbotron5</componentName>
+        </componentInstances>
+        <name>region1</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>description</name>
+                <value>TrailheaDX is the must-attend conference of the year for everyone who wants to learn about building on the Salesforce Platform. Get hands-on and learn from Salesforce engineers, product leaders, and the Trailblazer Community. Meet other makers, learn about the latest updates, and blaze your trail.</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>heading</name>
+                <value>Welcome to TrailheadDX</value>
+            </componentInstanceProperties>
+            <componentInstanceProperties>
+                <name>subheading</name>
+                <value>Salesforce developer conference dedicated to clicks, code, and people who create</value>
+            </componentInstanceProperties>
+            <componentName>jumbotron5</componentName>
+        </componentInstances>
+        <name>region2</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <flexiPageRegions>
+        <name>region3</name>
+        <type>Region</type>
+    </flexiPageRegions>
+    <masterLabel>Jumbotron Width Aware</masterLabel>
+    <template>
+        <name>flexipage:appHomeTemplateTwoColumnsStacked</name>
+    </template>
+    <type>AppPage</type>
+</FlexiPage>

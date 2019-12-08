@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>TrailheadDX 19</label>
+    <navType>Standard</navType>
+    <tabs>Jumbotron_Basic</tabs>
+    <tabs>Jumbotron_Public_Property</tabs>
+    <tabs>Jumbotron_Custom_Event</tabs>
+    <tabs>Jumbotron_Public_Method</tabs>
+    <tabs>Jumbotron</tabs>
+    <tabs>Jumbotron_Width_Aware</tabs>
+    <uiType>Lightning</uiType>
+</CustomApplication>

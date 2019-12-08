@@ -1,0 +1,18 @@
+<template>
+    <lightning-card title="">
+        <div class="slds-p-around_large">
+            
+            <c-jumbotron3 
+                unique-id="xyz" 
+                heading="Welcome to TrailheadDX" 
+                subheading="Salesforce developer conference dedicated to clicks, code, and people who create" 
+                description="TrailheaDX is the must-attend conference of the year for everyone who wants to learn about building on the Salesforce Platform. Get hands-on and learn from Salesforce engineers, product leaders, and the Trailblazer Community. Meet other makers, learn about the latest updates, and blaze your trail." 
+                action="Visit Website" 
+                onaction={actionClickHandler} >
+            </c-jumbotron3>
+
+            <div class="slds-m-top_large"></div>
+            <lightning-button label="Refresh Jumbotron" variant="warning" onclick={refreshHandler} ></lightning-button>
+        </div>
+    </lightning-card>
+</template>

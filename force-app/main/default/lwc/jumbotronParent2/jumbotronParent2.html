@@ -1,0 +1,34 @@
+<template>
+    <lightning-card title="">
+            <lightning-layout multiple-rows>
+                    <!--RENDERING ACCOUNT-->
+                    <lightning-layout-item size="12" padding="around-small">
+                        
+                        <c-jumbotron1 
+                            unique-id={acc.Id} 
+                            heading={acc.Name}
+                            subheading="Account"
+                            description={acc.Description}
+                            action="Open Account" 
+                            onaction={accountActionHandler} >
+                        </c-jumbotron1>
+    
+                    </lightning-layout-item>
+    
+                <!--RENDERING OPPORTUNITIES-->
+                    <lightning-layout-item size="12" padding="around-small">
+                        
+                        <c-jumbotron1 
+                            unique-id={opp.Id} 
+                            heading={opp.Name}
+                            subheading="Opportunity"
+                            description={opp.Description}
+                            action="Edit Opportunity" 
+                            onaction={opportunityActionHandler} >
+                        </c-jumbotron1>
+    
+                        
+                    </lightning-layout-item>
+            </lightning-layout>
+    </lightning-card>
+</template>
