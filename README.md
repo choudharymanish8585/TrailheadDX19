@@ -1,6 +1,6 @@
-# Salesforce App
+# Sample App For TrailheadDX19 
 
-This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
+Sample app code presented in TrailheadDX19. Follow below instruction to download the app and install in your org.
 
 ## Part 1: Choosing a Development Model
 
