@@ -9,32 +9,29 @@
             "c/jumbotron1": [
                 "jumbotron1/jumbotron1.js"
             ],
-            "c/jumbotronConntainer": [
-                "jumbotronConntainer/jumbotronConntainer.js"
-            ],
-            "c/jumbotronParent1": [
-                "jumbotronParent1/jumbotronParent1.js"
-            ],
-            "c/jumbotronParent": [
-                "jumbotronParent/jumbotronParent.js"
-            ],
             "c/jumbotron2": [
                 "jumbotron2/jumbotron2.js"
             ],
-            "c/jumbotronParent2": [
-                "jumbotronParent2/jumbotronParent2.js"
-            ],
             "c/jumbotron3": [
                 "jumbotron3/jumbotron3.js"
-            ],
-            "c/jumbotronParent3": [
-                "jumbotronParent3/jumbotronParent3.js"
             ],
             "c/jumbotron4": [
                 "jumbotron4/jumbotron4.js"
             ],
             "c/jumbotron5": [
                 "jumbotron5/jumbotron5.js"
+            ],
+            "c/jumbotronParent": [
+                "jumbotronParent/jumbotronParent.js"
+            ],
+            "c/jumbotronParent1": [
+                "jumbotronParent1/jumbotronParent1.js"
+            ],
+            "c/jumbotronParent2": [
+                "jumbotronParent2/jumbotronParent2.js"
+            ],
+            "c/jumbotronParent3": [
+                "jumbotronParent3/jumbotronParent3.js"
             ]
         }
     },

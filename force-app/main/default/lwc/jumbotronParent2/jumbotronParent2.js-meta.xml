@@ -4,7 +4,6 @@
     <isExposed>true</isExposed>
     <masterLabel>Jumbotron Parent Custom Event</masterLabel>
     <targets>
-        <target>lightning__Tab</target>
         <target>lightning__AppPage</target>
     </targets>
 </LightningComponentBundle>
